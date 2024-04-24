@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Jeitii
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning Electronics Engineering
-- 💞️ I’m looking to collaborate on software developing
-- 📫 How to reach me +905338469415
+- 👀 I use Python for Machine Learning
+- 🌱 I’m also very skilled in data science & analysis
+- 📫 How to reach me presido490@gmail.com
 
 <!---
 Jeitii/Jeitii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
